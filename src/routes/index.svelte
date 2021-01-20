@@ -36,7 +36,7 @@
 	<title>Anshu Shandilya</title>
 </svelte:head>
 
-<h3>Grab copy of "100 App Ideas for Android Beginner"</h3>
+<center><h2>Grab copy of "100 App Ideas for Android Beginner"</h2></center>
 
 <figure>
 	<img alt='Borat' src='android-ebook.png'>
