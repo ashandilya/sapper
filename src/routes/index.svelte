@@ -36,7 +36,7 @@
 	<title>Anshu Shandilya</title>
 </svelte:head>
 
-<center><b><h2>Grab copy of "100 App Ideas for Android Beginner"</h2></b></center>
+<b><center><h2>Grab copy of "100 App Ideas for Android Beginner"</h2></center></b>
 
 <br>
 
