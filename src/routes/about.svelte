@@ -10,6 +10,4 @@
 I am also content writer, I mostly write about Android, Opensource, Back-end tech.
 <br>
 <h2>Check Out my KiwisMedia Work Portfolio</h2> 
-https://kiwismedia.com/@ashandilya64
-
-</p>
+https://kiwismedia.com/@ashandilya64</p>
