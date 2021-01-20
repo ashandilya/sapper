@@ -33,13 +33,13 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Anshu Shandilya</title>
 </svelte:head>
 
-<h1>Welcome to Internet Home!</h1>
+<h3>Grab copy of "100 App Ideas for Android Beginner"</h3>
 
 <figure>
-	<img alt='Borat' src='profile_pic.png'>
-	<figcaption>Let's explore, what's here for you.</figcaption>
+	<img alt='Borat' src='android-ebook.png'>
+	<figcaption>Download Book</figcaption>
 </figure>
 
